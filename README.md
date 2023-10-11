@@ -54,7 +54,9 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![Screenshot (6)](https://github.com/Surya-ram/simplewebserver/assets/122000311/c8f05184-19d2-4860-8ef1-5dbcf8459d52)
+![Screenshot (3)](https://github.com/Surya-ram/simplewebserver/assets/122000311/29bc38d3-cabe-4fa9-aa9d-050619d563f1)
+
+
 
 ![Screenshot 2023-10-10 161951](https://github.com/Surya-ram/simplewebserver/assets/122000311/84168d14-2fed-419b-a569-0c6a5b41c637)
 
